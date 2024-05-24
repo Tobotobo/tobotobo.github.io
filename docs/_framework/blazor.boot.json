@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "dotnet_blazor_webassembly_example1",
   "resources": {
-    "hash": "sha256-+NUPRt66G5gIK0JMasHSfyLzg+186K4ksPu6LY7NlZY=",
+    "hash": "sha256-VS6Ucz3FxjN/PLMFog5X6f0axTQ0cj37/7LaGowVUvo=",
     "jsModuleNative": {
-      "dotnet.native.8.0.5.wzrvnrj7no.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
+      "dotnet.native.8.0.5.l1z6p0yllq.js": "sha256-Gq/YqqvNIKGS+Awu1ozolYJd8VGcjbgMH4sU5hvZvTs="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.5.uvzh0smb3p.js": "sha256-5oi05+Ql/1JzyAphppAHmbRquli4a3/0XLMa8mQDKn8="
+      "dotnet.runtime.8.0.5.gongq8hbow.js": "sha256-5oi05+Ql/1JzyAphppAHmbRquli4a3/0XLMa8mQDKn8="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-b3QtgAqvT5FoNyYgoEYsdE4zF5C1Is6lhQ8VEkROor8="
+      "dotnet.native.wasm": "sha256-OenSUXJPzSgKtda1I4/pv9MpsMF7LTEkyiBd8LM1EdU="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
